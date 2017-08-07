@@ -1,3 +1,11 @@
 This software scrapes the JSON files provided by https://github.com/DestinyDevs/BungieNetPlatform/
 The intent is to take the JSON scrape files and automatically create a set of useable classes and
 methods that allows access to the Bungie API for the Destiny video game.
+
+JSON Scrape Source:
+https://destinydevs.github.io/BungieNetPlatform/data/api-data.json
+
+ENUMS Scrape Source:
+https://destinydevs.github.io/BungieNetPlatform/data/enums.json
+
+Write a class generator for your language of choice.
